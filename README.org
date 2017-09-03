@@ -1,0 +1,14 @@
+* OSS World Example Plugin
+
+  This plugin demonstrates how to create a plugin for the [[https://github.com/oss-world/oss-world][OSS World]] in clojure.
+
+** Usage
+
+After installing the OSS World, run:
+#+BEGIN_SRC bash
+  boot build
+#+END_SRC
+
+Then add ~[oss-world/oss-world-example-clojure "1.0"]~ to the
+"plugins/plugins.edn" file in your OSS World data folder.
+

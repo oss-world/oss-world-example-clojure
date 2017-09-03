@@ -1,0 +1,2 @@
+{:id "oss-world-example"
+ :init oss-world-example.core/entry}
